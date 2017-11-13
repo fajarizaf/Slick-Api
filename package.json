@@ -1,0 +1,20 @@
+{
+  "name": "nodeapi",
+  "version": "1.0.0",
+  "description": "\"Membuat endpoint app dengan api\"",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "keywords": [
+    "slick-api"
+  ],
+  "author": "Fajar Riza Fauzi",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "lodash": "^4.17.4",
+    "nodemon": "^1.12.1"
+  }
+}
