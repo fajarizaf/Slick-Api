@@ -8,16 +8,16 @@ RestFull API for Product Management
 - simple example CRUD proses
 
 
-#Dependencies
+# Dependencies
 - loadash ( manipulate data array )
 - nodemon ( script automate start )
 
 
-#Data Store Json
+# Data Store Json
 path: data -> product.json
 
 
-#EndPoint -- OF product data
+# EndPoint -- OF product data
 
 |  method   |  endpoint         | descriptions         | data           |
 | --------  | ----------------- | -------------------- | -------------- |
