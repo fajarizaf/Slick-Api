@@ -7,12 +7,15 @@ RestFull API for Product Management
 - no authentications access
 - simple example CRUD proses
 
+
 #Dependencies
 - loadash ( manipulate data array )
 - nodemon ( script automate start )
 
+
 #Data Store Json
 path: data -> product.json
+
 
 #EndPoint -- OF product data
 
