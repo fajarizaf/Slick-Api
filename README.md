@@ -17,7 +17,7 @@ RestFull API for Product Management
 path: data -> product.json
 
 
-# EndPoint -- O Product Data
+# EndPoint -- Of Product Data
 
 |  method   |  endpoint         | descriptions         | data           |
 | --------  | ----------------- | -------------------- | -------------- |
