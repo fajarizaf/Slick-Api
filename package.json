@@ -4,7 +4,7 @@
   "description": "\"Membuat endpoint app dengan api\"",
   "main": "server.js",
   "scripts": {
-    "start": "nodemon server.js"
+    "start": "node server.js"
   },
   "keywords": [
     "slick-api"
@@ -15,6 +15,8 @@
     "body-parser": "^1.18.2",
     "express": "^4.16.2",
     "lodash": "^4.17.4",
+    "mysql": "^2.18.1",
+    "mysql-activerecord": "^0.8.6",
     "nodemon": "^1.12.1"
   }
 }
